@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR5h0013/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5h0013/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 元始天尊說藥王救八十一難真經
+  date: '2015-08-29 03:02:41.309502'
+  source:
+    repository: kanripo
+    path: KR5h0013
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5h0013_000-CK-KZ-jye.yaml, hash: 'sha256:e43b1de7c7fcf74d103b25c57ba0bfd65e60ed468936e0d3252fd8097351ccfe'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5h0013_000-CK-KZ-jye.markers.yaml, hash: 'sha256:225875e36995d25bcb72a14ce20fd71a39e317074a4fa757e6e8a9e978353d44'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5h0013_CK-KZ_01p076a
+    span:
+    - body
+    - 0
+    - 1304
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:7f9d1c9cbde166862225982754024b743417a8d53926497852c1e89c69bee520

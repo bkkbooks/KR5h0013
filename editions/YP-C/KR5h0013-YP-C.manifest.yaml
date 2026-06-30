@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5h0013/YP-C/v1
+canonical_location: https://kanripo.org/bkk/KR5h0013/YP-C/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 元始天尊說藥王救八十一難真經
+  date: '2015-08-29 03:02:41.309502'
+  source:
+    repository: kanripo
+    path: KR5h0013
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5h0013_000-YP-C.yaml, hash: 'sha256:a1bce6059b44ec8ecb71c23b5f4a922ddd7f4faf5e892eafe5605d82c39de3d3'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5h0013_000-YP-C.markers.yaml, hash: 'sha256:4bdeb1d7e1f3639d95091542cbbfb4bc05cbaea6d04fdf71de83123fae69dc41'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5h0013_YP-C_03diji-05-0076a
+    span:
+    - body
+    - 0
+    - 1304
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:7388f495418664e266f46844dedc78386aadca77ca8966f179c1731a540d4282
